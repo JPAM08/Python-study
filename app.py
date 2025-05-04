@@ -12,7 +12,7 @@ def show_menu ():
     print("\n escolha operação")
     print("1 add")
     print("2 subtract")
-    print("3 sair")
+    print("3 Sair")
     return input("digite sua opção:")
 
 def main ():
